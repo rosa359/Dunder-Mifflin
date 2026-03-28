@@ -1,0 +1,103 @@
+ 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background: #1b54dd;
+    text-align: center;
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+
+.header_title h1 {
+    font-weight: 700;
+    font-size: 36px;
+    color: #fff;
+}
+
+.header_button button {
+    font-weight: 600;
+    font-size: 14px;
+    color: #1a2028;
+    border-radius: 2px;
+    width: 110px;
+    height: 41px;
+}
+
+
+
+
+
+body{
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #dcdcdc;
+}
+
+
+.container {
+    width: 600px;
+    margin: 20px auto;
+    background: #ffffff;
+    padding: 20px;
+}
+
+
+.block {
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.block img {
+    width: 200px;
+    margin-right: 20px;
+}
+
+.text h2 {
+    margin: 0 0 10px;
+    font-size: 22px;
+}
+
+.text p {
+    font-size: 14px;
+    color: #555;
+}
+
+.text a {
+    text-decoration: none;
+    color: #4a5cff;
+    font-size: 14px;
+}
+
+
+.cta {
+    text-align: center;
+    margin: 30px 0;
+}
+
+.cta button {
+    background: #4a5cff;
+    color: white;
+    border: none;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+
+.footer {
+    text-align: center;
+    font-size: 12px;
+    color: #777;
+}
+
+.soso {
+    margin-bottom: 10px;
+}
+
+.soso span {
+    margin: 0 10px;
+}
